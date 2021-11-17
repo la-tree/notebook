@@ -1,4 +1,4 @@
-name: opendap_working
+name: latree_working
 channels:
   - conda-forge
   - defaults
