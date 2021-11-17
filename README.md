@@ -1,19 +1,21 @@
-# EDS220_Fall2021_FinalProjInfo
-### Information needed for HW3 and final project for EDS 220, Fall 2021
+# EDS220 Fall2021 Final Project 
 
-This repository contains useful template information for working on assignments for EDS 220 Remote Sensing and Environmental Data at UC Santa Barbara (Fall 2021 quarter). 
+## Los Angeles Tree Canopy Cover 
+
+Paloma Cartwright 
+Mia Forsline
+Halina Do-Linh 
+
+Description: 
+- add in a brief description of our project and notebook (1 - 3 lines)
 
 Contents:
-- HW3_template.ipynb: Template Jupyter notebook for use in Homework 3 and final project
-- environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
+- data 
+- Final_Project.ipynb: Completed notebook with working examples 
+- Final_Project_Empty.ipynb: Empty notebook for working through during the class presentation 
+- environment.yml: Environment file for use in creating Binder environment for running Jupyter notebook
 
-Information for Homework 3:
-- Due date = **Friday, November 19**
-- Deliverables:
-   - Completed Jupyter notebook template appropriate for your group 
-   - Any necessary data or supporting files included in the repo
-   - README file edited to be appropriate for your project
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/la-tree/notebook/HEAD)
 
 Information for final project:
 - Presentation dates: **Nov 22; Nov 29; Dec 1**

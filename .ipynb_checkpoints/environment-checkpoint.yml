@@ -1,0 +1,14 @@
+name: latree_working
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - geopandas
+  - contextily
+  - rasterio
+  - cartopy
+  
