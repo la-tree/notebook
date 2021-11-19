@@ -9,6 +9,5 @@ dependencies:
   - pandas
   - geopandas
   - contextily
-  - rasterio
   - cartopy
   
