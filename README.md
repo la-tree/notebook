@@ -2,12 +2,17 @@
 
 ## Los Angeles Tree Canopy Cover 
 
+**Authors:**
 Paloma Cartwright 
 Mia Forsline
 Halina Do-Linh 
 
-Description: 
-- This notebook aims to explore the relationship between the percentage of modern tree canopy cover and historical 1939 redlining in Los Angeles County.
+**Intended Purpose:** 
+This notebook is for educational purposes and the authors are Master of Environmental Data Science students from UCSB's Bren School of Environmental Science & Management. This repository is the final project for EDS 220, Remote Sensing and Environmental Data. The objective of the final project is to create a tutorial for fellow students based on any environmental data set. This notebook contains
+
+**Description:**
+This notebook aims to explore the relationship between the percentage of modern tree canopy cover and historical 1939 redlining in Los Angeles County.
+
 
 Contents:
 - data 
